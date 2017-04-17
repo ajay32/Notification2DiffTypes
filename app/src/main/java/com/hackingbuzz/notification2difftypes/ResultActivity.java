@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 /**
- * Created by navneet on 3/12/16.
+ * Created by Ajay Mehta on 4/12/17.
  */
 
 public class ResultActivity extends AppCompatActivity {
